@@ -30,7 +30,7 @@
 			"value": 3
 		},
 		"dataDiskSize": {
-			"value": 128
+			"value": 600
 		},
 		"adminUsername": {
 			"value": "changeme"
@@ -60,7 +60,7 @@
 			"value": "true"
 		},
 		"aadClientId": {
-			"value": "changeme"
+			"value": "0ceb52b3-8cb5-4aff-91e9-c634ada2736e"
 		},
 		"aadClientSecret": {
 			"value": "changeme"
